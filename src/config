@@ -1,0 +1,13 @@
+[APPLICATION]
+refresh_rate =  1.0
+notification_mode = Job start + job end
+
+[UI]
+theme = MaterialDark_green
+font_size = 12
+
+[COLORS]
+completed = 109,206,128
+running = 114,159,207
+pending = 255,203,164
+default = 255,105, 97
